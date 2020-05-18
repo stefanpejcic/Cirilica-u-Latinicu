@@ -1,0 +1,5 @@
+LetterLat[0] = "A";
+LetterLat[1] = "Ž";
+
+LetterCir[0] = "А";
+LetterCir[1] = "Ж";
