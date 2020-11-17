@@ -7,4 +7,5 @@ Cilj je napisati konverter u svim jezicima, za sad:
   <li><a href="https://github.com/stefanpejcic/Cirilica-u-Latinicu/tree/master/javascript">JavaScript</a></li>
   <li><a href="https://github.com/stefanpejcic/Cirilica-u-Latinicu/tree/master/php">PHP</a></li>
   <li><a href="https://github.com/stefanpejcic/Cirilica-u-Latinicu/tree/master/java">Java</a></li>
+  <li><a href="https://github.com/stefanpejcic/Cirilica-u-Latinicu/tree/master/C%23">C#</a></li>
 </ul>
