@@ -10,6 +10,9 @@ Cilj je napisati konverter u svim jezicima, za sad:
   <li><a href="https://github.com/stefanpejcic/Cirilica-u-Latinicu/tree/master/C%23">C#</a></li>
 </ul>
 
+----------
+
+PRIMER: PHP konverter integrisa u WordPress plugin 
 
 <table border="0">
  <tr>
