@@ -13,11 +13,11 @@ Cilj je napisati konverter u svim jezicima, za sad:
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Cirilica</b></td>
+    <td><b style="font-size:30px">Latinica</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td><img src="https://github.com/stefanpejcic/Cirilica-u-Latinicu/blob/master/cirilica.png"></img></td>
+    <td><img src="https://github.com/stefanpejcic/Cirilica-u-Latinicu/blob/master/latinica.png"></img></td>
  </tr>
 </table>
