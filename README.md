@@ -12,7 +12,7 @@ Cilj je napisati konverter u svim jezicima, za sad:
 
 ----------
 
-PRIMER: PHP konverter integrisa u WordPress plugin 
+PRIMER: PHP konverter integrisan u WordPress plugin na sajtu https://pcelarstvopejcic.com/
 
 <table border="0">
  <tr>
@@ -20,7 +20,7 @@ PRIMER: PHP konverter integrisa u WordPress plugin
     <td><b style="font-size:30px">Latinica</b></td>
  </tr>
  <tr>
-    <td><img src="https://github.com/stefanpejcic/Cirilica-u-Latinicu/blob/master/cirilica.png"></img></td>
-    <td><img src="https://github.com/stefanpejcic/Cirilica-u-Latinicu/blob/master/latinica.png"></img></td>
+    <td><a href="https://pcelarstvopejcic.com/?pismo=cir"><img src="https://github.com/stefanpejcic/Cirilica-u-Latinicu/blob/master/cirilica.png"></img></a></td>
+    <td><a href="https://pcelarstvopejcic.com/?pismo=lat"><img src="https://github.com/stefanpejcic/Cirilica-u-Latinicu/blob/master/latinica.png"></img></a></td>
  </tr>
 </table>
